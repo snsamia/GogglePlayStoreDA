@@ -63,7 +63,7 @@ The dataset contains various fields, such as:
 - **Paid Apps Analysis**: Highlights the most expensive apps and their popularity.
 
 ### Example Visualization:
-![Dashboard](https://github.com/snsamia/Google-Play-Store-Analysis/blob/main/dashboard.png)
+![Dashboard](https://github.com/snsamia/GogglePlayStoreDA/blob/main/Dashboard.png)
 
 ---
 
